@@ -1,6 +1,10 @@
-#The Atbash cipher is an encryption method in which each letter of a word is replaced with its "mirror" letter in the alphabet: A <=> Z; B <=> Y; C <=> X; etc.
+"""
+The Atbash cipher is an encryption method in which each letter of a word is replaced with its "mirror" letter in the alphabet:
+
+A <=> Z; B <=> Y; C <=> X; etc.
 
 Create a function that takes a string and applies the Atbash cipher to it.
+"""
 
 def atbash(txt):
     s = ""

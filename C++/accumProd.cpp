@@ -1,3 +1,9 @@
+/*
+Given an array / vector of integers, the program will multiply each element
+by all of the elements before it
+*/
+
+
 #include<iostream>
 #include<vector>
 

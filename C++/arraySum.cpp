@@ -1,3 +1,7 @@
+/*
+Program to sum an array of numbers in the least number of lines possible
+*/
+
 #include<iostream>
 #include<vector>
 #include<algorithm>

@@ -1,3 +1,9 @@
+/*
+Given a string with random characters, the program will add each new character
+to a new string in which every character found will be repeated according to
+the position it was found on; the first iteration of the character will be
+capitalised
+*/
 #include<iostream>
 #include<string>
 #include <ctype.h>

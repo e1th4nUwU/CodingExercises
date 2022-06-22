@@ -1,5 +1,5 @@
 /*
-This program is supossed to write the following pattern:
+This program is supossed to write the following pattern according to the letter you insert:
 INPUT         OUTPUT
 A             A
 B             ABA

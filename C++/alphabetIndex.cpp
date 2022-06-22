@@ -1,3 +1,8 @@
+/*
+This program takes a strings with alphabet characters and returns a new one
+which contains the index of each letter inside the alphabet
+*/
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -17,7 +22,6 @@ string alphabetIndex(string str) {
 	vector<int> let;
 	
 	for(int i=0; i<str.size(); i++){
-		cout<<(int)str[i]<<endl;
 		if((int)str[i] > 64 && (int)str[i] < 91){
 			let.push_back((int)str[i]-64);
 		}
